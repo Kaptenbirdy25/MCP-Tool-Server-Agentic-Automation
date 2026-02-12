@@ -1,4 +1,4 @@
-# Projekt 2 — MCP Tool Server + Agentic Automation (v1)
+# MCP Tool Server + Agentic Automation (v1)
 
 ## What it does
 A small tool server (MCP-like) exposing allowlisted tools to an agent:
@@ -24,3 +24,4 @@ A small tool server (MCP-like) exposing allowlisted tools to an agent:
 ### Client
 Run:
 `py scenarios.py`
+
