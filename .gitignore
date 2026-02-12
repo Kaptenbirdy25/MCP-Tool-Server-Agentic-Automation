@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Secrets
+**/.env
+**/.env.*
+
+# Local DB + logs
+*.db
+*.log
+server/app/audit.log
+server/app.db
+
+# Editor
+.vscode/
